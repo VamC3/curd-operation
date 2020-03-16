@@ -1,0 +1,63 @@
+.tablerow {
+    margin: 0;
+  }
+
+  .table-responsive {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+  }
+
+  .table {
+    background-color: transparent;
+  }
+
+  .card .table th {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .table .thead-light th {
+    background-color: #f6f9fc;
+    color: #8898aa;
+  }
+
+  .table.align-items-center th {
+    vertical-align: middle;
+  }
+
+  .table .thead-light th {
+    border-color: #e9ecef;
+  }
+
+  .table thead th {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 1px solid #e9ecef;
+  }
+
+  .table-flush th {
+    border-left: 0;
+    border-right: 0;
+  } 
+
+  .table th {
+    white-space: nowrap;
+  }
+
+  .table th {
+    font-weight: 600;
+}
+
+.table th {
+  border-top: 1px solid #e9ecef;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 2px;
+}
+  
